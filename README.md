@@ -1,0 +1,2 @@
+#### Prerequisite
+- Install ruby 
